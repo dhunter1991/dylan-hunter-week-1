@@ -11,9 +11,9 @@ var studyingMobileDevelopment = true;
 var plansToStudyMobileGaming = true;
 var phrase1 = 'I have been working in a lumber yard for four years now';
 var phrase2 = 'I am really excited to be studying mobile development here at Full Sail';
-var phrase3 = 'I included information about my current job as well as some information about myself';
 var study = "Studying Mobile Development";
 var workLoad = "number of boards cut each day";
+
 
 
 
@@ -31,7 +31,7 @@ console.log(piecesCut);
 console.log(plansToStudyMobileGaming);
 console.log(phrase1);
 console.log(phrase2);
-console.log(phrase3);
+
 
 
 
